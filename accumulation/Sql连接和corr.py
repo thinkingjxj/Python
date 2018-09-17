@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 10 12:59:17 2018
 
-@author: 余雪鹏
-"""
 import pymysql
 from pandas.core.frame import DataFrame
 import datetime

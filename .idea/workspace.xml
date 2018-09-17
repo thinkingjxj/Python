@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec0b7f00-61f1-4b88-aec0-3714e721b3b2" name="Default" comment="" />
+    <list default="true" id="ec0b7f00-61f1-4b88-aec0-3714e721b3b2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/NLP_t/nlp_t1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accumulation/pca_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accumulation/Sql连接和corr.py" beforeDir="false" afterPath="$PROJECT_DIR$/accumulation/Sql连接和corr.py" afterDir="false" />
+    </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,42 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p_kn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accumulation/p_kn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LDA_t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accumulation/LDA_t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-              <folding>
-                <element signature="e#40#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arima_t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accumulation/arima_t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="e_mp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/accumulation/e_mp.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,14 +80,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gbt.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gbt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/accumulation/gbt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accumulation/t.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="china_fenci.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLP_t/china_fenci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/accumulation/pca_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nlp_t1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLP_t/nlp_t1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -144,14 +156,12 @@
       <replace>ts</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/装饰器/d.py" />
-        <option value="$PROJECT_DIR$/装饰器/last.py" />
-        <option value="$PROJECT_DIR$/装饰器/sort改进.py" />
-        <option value="$PROJECT_DIR$/week05/10.18/堆排序.py" />
-        <option value="$PROJECT_DIR$/week05/10.18/堆.py" />
         <option value="$PROJECT_DIR$/week05/10.18/公共最大子串.py" />
         <option value="$PROJECT_DIR$/week05/10.18/map自定义.py" />
         <option value="$PROJECT_DIR$/week05/10.18/base64算法.py" />
@@ -198,13 +208,18 @@
         <option value="$PROJECT_DIR$/accumulation/e_mp_curve.py" />
         <option value="$PROJECT_DIR$/accumulation/mat.py" />
         <option value="$PROJECT_DIR$/accumulation/gbt.py" />
+        <option value="$PROJECT_DIR$/NLP_t/nlp_t1.txt" />
+        <option value="$PROJECT_DIR$/NLP_t/nlp_t0.txt" />
+        <option value="$PROJECT_DIR$/NLP_t/nlp_t2.txt" />
+        <option value="$PROJECT_DIR$/NLP_t/china_fenci.py" />
+        <option value="$PROJECT_DIR$/accumulation/pca_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="480" />
-    <option name="y" value="71" />
-    <option name="width" value="893" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="319" />
+    <option name="y" value="145" />
+    <option name="width" value="1031" />
     <option name="height" value="757" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -247,6 +262,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showMembers ProjectPane="true" />
@@ -282,19 +298,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\accumulation" />
-      <recent name="C:\Users\10649\Python\beida" />
-      <recent name="E:\linux马哥基础学习\171023" />
-      <recent name="C:\Users\10649\Python\10.24" />
-      <recent name="C:\Users\10649\Python\装饰器" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\10649\Python\week05" />
       <recent name="C:\Users\10649\Python\week06" />
       <recent name="C:\Users\10649\Python\week07" />
       <recent name="C:\Users\10649\Python\week08" />
       <recent name="C:\Users\10649\Python\week09" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\accumulation" />
+      <recent name="C:\Users\10649\Python\beida" />
+      <recent name="E:\linux马哥基础学习\171023" />
+      <recent name="C:\Users\10649\Python\10.24" />
+      <recent name="C:\Users\10649\Python\装饰器" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gbt">
+  <component name="RunManager" selected="Python.pca_test">
     <configuration name="斐波那契数列递归" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -472,6 +488,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="china_fenci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP_t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP_t/china_fenci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="disc" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -485,24 +519,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.20/disc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="e_mp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/accumulation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accumulation/e_mp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -580,6 +596,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pca_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/accumulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accumulation/pca_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="s" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -611,24 +645,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.19/server_client_socket.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/accumulation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accumulation/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -681,19 +697,19 @@
       <item itemvalue="Python.5" />
       <item itemvalue="Python.linklist" />
       <item itemvalue="Python.4" />
-      <item itemvalue="Python.e_mp" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.mat" />
       <item itemvalue="Python.e_mp_curve" />
       <item itemvalue="Python.gbt" />
+      <item itemvalue="Python.china_fenci" />
+      <item itemvalue="Python.pca_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pca_test" />
+        <item itemvalue="Python.china_fenci" />
         <item itemvalue="Python.gbt" />
         <item itemvalue="Python.mat" />
         <item itemvalue="Python.e_mp_curve" />
-        <item itemvalue="Python.e_mp" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -708,6 +724,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507716087863</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1536897496224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536897496224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -720,24 +744,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49342105" visible="true" weight="0.03348214" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49342105" visible="true" weight="0.0639881" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50292826" side_tool="true" weight="0.28782895" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49707174" weight="0.5181518" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.44901314" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289256" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.44793388" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49707174" weight="0.4214876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24925596" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5594059" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.6749175" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5586777" />
       <window_info id="Favorites" order="2" sideWeight="0.5065789" side_tool="true" weight="0.22544643" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49707174" weight="0.6749175" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32961783" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -755,6 +780,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
@@ -771,12 +800,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week05/10.18/堆排序.py" />
-    <entry file="file://$PROJECT_DIR$/beida/test.py" />
-    <entry file="file://$PROJECT_DIR$/beida/crr.py" />
-    <entry file="file://$PROJECT_DIR$/beida/np.py" />
-    <entry file="file://$PROJECT_DIR$/Pokemon.csv" />
-    <entry file="file://$PROJECT_DIR$/beida/wd.py" />
     <entry file="file://$PROJECT_DIR$/beida/diffResult_final.py" />
     <entry file="file://$PROJECT_DIR$/accumulation/part.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/ops/resource_variable_ops.py">
@@ -842,13 +865,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Sql连接和corr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Sql连接和corr.py" />
     <entry file="file://$PROJECT_DIR$/accumulation/Sql连接和corr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -972,9 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="e#40#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -996,9 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1034,9 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,8 +1095,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/accumulation/gbt.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accumulation/t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_t/nlp_t1.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_t/nlp_t2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_t/nlp_t0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP_t/china_fenci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accumulation/pca_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
