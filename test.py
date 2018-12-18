@@ -1,9 +1,19 @@
 import pandas as pd
 
-d = pd.read_csv('C:/Users/luna/Desktop/bsd/shandietest.csv')
 
-# d = d[~d['雨点分'].isin([-1])]  # 删除-1的行
+t = {'id':[1,1,2,3,3,4,5,5],
+     'price':[5,6,8,3,4,6,9,5],
+     'amount':[1,1,2,1,1,1,2,1],
+     'status':['sale','sale','no','no','sale','no','sale','no']}
 
-print(d.head(3))
-# print(d)
-# print(d.shape)
+print(t)
+
+index = {'id', 'price', 'amount'}
+t1 = {key:value for key,value in t.items() if key in index}
+
+print(t1)
+
+print(pd.DataFrame(t1))
+print(pd.DataFrame(t))
+
+
