@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04bc0783-8847-45db-8d7e-7fef68cbcc18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sklearn_learning/_isolation forest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn_learning/en_cla.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn_learning/ensemble_cla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn_learning/intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sklearn_learning/sns_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_learning/learn_tf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_learning/lr_l.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_learning/train_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Original/123456.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_learning/learn_tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_learning/linear_logistic_nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_learning/mn_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tf_learning/softmax_cross.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original/sxh_xy_1.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Original/sxh_xy_1.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original/xgb_网格搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/Original/xgb_网格搜索.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_learning/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_learning/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_learning/learn_tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_learning/lr_l.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_learning/lr_l.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_learning/train_monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_learning/train_monitor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +26,21 @@
     <session id="1130517888">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.11" value="5" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.11" value="7" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,28 +48,28 @@
           <entry key="checkpoint" value="4" />
           <entry key="data-00000-of-00001" value="1" />
           <entry key="ipynb" value="8" />
-          <entry key="py" value="40" />
+          <entry key="py" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="8" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="40" />
+          <entry key="Python" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="67" />
-          <entry key="dummy" value="17" />
-          <entry key="py" value="29316" />
-          <entry key="txt" value="48" />
+          <entry key="Python Console" value="196" />
+          <entry key="dummy" value="20" />
+          <entry key="py" value="39110" />
+          <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="29383" />
+          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="Python" value="39306" />
         </counts>
       </usages-collector>
     </session>
@@ -76,60 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sklearn_learning/sns_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#1432#1443#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow_learning/lr_l.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorflow_learning/hello_world.py">
+        <entry file="file://$PROJECT_DIR$/tf_learning/learn_tf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-400">
-              <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow_learning/learn_tf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="416">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -138,28 +92,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow_learning/train_monitor.py">
+        <entry file="file://$PROJECT_DIR$/tf_learning/softmax_cross.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="224">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sklearn_learning/ensembles on iris dataset.py">
+        <entry file="file://$PROJECT_DIR$/tf_learning/linear_logistic_nn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -168,22 +113,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sklearn_learning/tst.py">
+        <entry file="file://$PROJECT_DIR$/tf_learning/mn_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="496">
+              <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
               <folding>
-                <element signature="e#0#44#0" expanded="true" />
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generate_Original/cp_xgb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -205,10 +141,12 @@
       <find>nan</find>
       <find>null</find>
       <find>fls&quot;</find>
+      <find>身份证</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;&quot;</replace>
       <replace>&quot;fls&quot;</replace>
+      <replace>Creditability</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -226,7 +164,6 @@
         <option value="$PROJECT_DIR$/Generate_Original/rg_cv.py" />
         <option value="$PROJECT_DIR$/Generate_Original/cp_xgb.py" />
         <option value="$PROJECT_DIR$/Original/decisionTree.py" />
-        <option value="$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py" />
         <option value="$PROJECT_DIR$/PLSR——.py" />
         <option value="$PROJECT_DIR$/Original/logistics.py" />
         <option value="$PROJECT_DIR$/PLSR_.py" />
@@ -251,14 +188,24 @@
         <option value="$PROJECT_DIR$/tensorflow_learning/train_monitor.py" />
         <option value="$PROJECT_DIR$/tensorflow_learning/hello_world.py" />
         <option value="$PROJECT_DIR$/tensorflow_learning/learn_tf.py" />
+        <option value="$PROJECT_DIR$/tf_learning/mn_data.py" />
+        <option value="$USER_HOME$/Desktop/xgb_网格搜索(1)(2).py" />
+        <option value="$USER_HOME$/Desktop/123.py" />
+        <option value="$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py" />
+        <option value="$PROJECT_DIR$/Original/123456.py" />
+        <option value="$PROJECT_DIR$/tf_learning/learn_tf.py" />
+        <option value="$PROJECT_DIR$/tf_learning/soft_cross.py" />
+        <option value="$PROJECT_DIR$/tf_learning/softmax_cross.py" />
+        <option value="$PROJECT_DIR$/tf_learning/xgboost.py" />
+        <option value="$PROJECT_DIR$/Original/xgb_网格搜索.py" />
+        <option value="$PROJECT_DIR$/tf_learning/linear_logistic_nn.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="275" />
-    <option name="y" value="40" />
-    <option name="width" value="1106" />
-    <option name="height" value="756" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="441" />
+    <option name="width" value="908" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -279,7 +226,12 @@
             <path>
               <item name="MyProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Original" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="tf_learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,12 +243,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luna\PycharmProjects\MyProjects\Original" />
       <recent name="C:\Users\luna\PycharmProjects\MyProjects\Generate_Original" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\luna\PycharmProjects\MyProjects\Generate_Original" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\luna\PycharmProjects\MyProjects\Original" />
+      <recent name="C:\Users\luna\PycharmProjects\MyProjects\Generate_Original" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -311,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_tf">
+  <component name="RunManager" selected="Python.linear_logistic_nn">
     <configuration name="MyProjects" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="MyProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,7 +282,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="123456" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Original" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_learning/hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Original/123456.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,11 +311,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_learning/learn_tf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_learning/learn_tf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lr_l" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linear_logistic_nn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,11 +332,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_learning/lr_l.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_learning/linear_logistic_nn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,7 +345,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="softmax_cross" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -400,11 +353,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_learning/softmax_cross.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,7 +366,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_monitor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xgb_网格搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -421,11 +374,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Original" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_learning/train_monitor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Original/xgb_网格搜索.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,19 +389,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.MyProjects" />
-      <item itemvalue="Python.t" />
-      <item itemvalue="Python.lr_l" />
-      <item itemvalue="Python.hello_world" />
-      <item itemvalue="Python.train_monitor" />
+      <item itemvalue="Python.xgb_网格搜索" />
+      <item itemvalue="Python.123456" />
+      <item itemvalue="Python.softmax_cross" />
       <item itemvalue="Python.learn_tf" />
+      <item itemvalue="Python.linear_logistic_nn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linear_logistic_nn" />
+        <item itemvalue="Python.softmax_cross" />
         <item itemvalue="Python.learn_tf" />
-        <item itemvalue="Python.hello_world" />
-        <item itemvalue="Python.train_monitor" />
-        <item itemvalue="Python.lr_l" />
-        <item itemvalue="Python.t" />
+        <item itemvalue="Python.123456" />
+        <item itemvalue="Python.xgb_网格搜索" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +430,35 @@
       <option name="project" value="LOCAL" />
       <updated>1544166092838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tensorflow learning">
+      <created>1545121809569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545121809569</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tensorflow learning">
+      <created>1545121861457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545121861457</updated>
+    </task>
+    <task id="LOCAL-00005" summary="xgboost网格搜索原始文件">
+      <created>1545296646813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545296646813</updated>
+    </task>
+    <task id="LOCAL-00006" summary="xgboost网格搜索原始文件">
+      <created>1545297162949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545297162949</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers>
       <GitHub url="https://github.com/thinkingjxj">
         <option name="repoAuthor" value="thinkingjxj" />
@@ -495,23 +476,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="40" width="1106" height="756" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.08895131" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.12411848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5021097" side_tool="true" weight="0.06906475" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49788433" visible="true" weight="0.3188406" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957687" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32884097" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49607182" weight="0.7854251" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5039282" side_tool="true" weight="0.5020243" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.48987854" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.45687333" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50423133" side_tool="true" weight="0.29959515" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.4871795" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.45614034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -523,51 +504,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="credit test" />
     <MESSAGE value="MDS test" />
-    <option name="LAST_COMMIT_MESSAGE" value="MDS test" />
+    <MESSAGE value="tensorflow learning" />
+    <MESSAGE value="xgboost网格搜索原始文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="xgboost网格搜索原始文件" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/a-jxj/decisionTree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/a-jxj/xgb_网格搜索(1)(2).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/a-jxj/logistics.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/reshape/concat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/linear_model/logistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-727">
-          <caret line="1276" lean-forward="true" selection-start-line="1276" selection-end-line="1276" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/_compat_pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528" />
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/scipy/stats/stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="4703" lean-forward="true" selection-start-line="4703" selection-end-line="4703" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/linear_model/ridge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="1139" column="23" selection-start-line="1139" selection-start-column="23" selection-end-line="1139" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -610,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1408">
           <caret line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PLSR_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -678,20 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clean_corr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sklearn_learning/calibration of classifiers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -732,16 +652,18 @@
     <entry file="file://C:/ProgramData/Anaconda3/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/log/linemodel.cpkt.data-00000-of-00001">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_learning/log/linemodel.cpkt.data-00000-of-00001" />
     <entry file="file://$PROJECT_DIR$/sklearn_learning/MDS_t.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/log/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -749,36 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sklearn_learning/tst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generate_Original/cp_xgb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/lr_l.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,17 +678,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#1432#1443#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/log/checkpoint">
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/h5py/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="145">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/hello_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/tensorflow/python/ops/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21136">
+          <caret line="1350" selection-start-line="1350" selection-end-line="1350" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_corr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/xgb_网格搜索(1)(2).py" />
+    <entry file="file://$USER_HOME$/Desktop/123.py" />
+    <entry file="file://$PROJECT_DIR$/Original/xgb_网格搜索(1)(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="73" selection-start-line="73" selection-end-line="74" />
         </state>
       </provider>
     </entry>
@@ -804,9 +722,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn_learning/tst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -817,29 +739,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/train_monitor.py">
+    <entry file="file://$PROJECT_DIR$/Generate_Original/cp_xgb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/train_monitor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/learn_tf.py">
+    <entry file="file://$PROJECT_DIR$/Original/123456.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="240">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/lr_l.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PLSR_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/xgboost.py" />
+    <entry file="file://$PROJECT_DIR$/Original/xgb_网格搜索.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1171">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow_learning/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/tf_learning/linear_logistic_nn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        <state relative-caret-position="80">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/mn_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/softmax_cross.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_learning/learn_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

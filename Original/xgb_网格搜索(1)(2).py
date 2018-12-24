@@ -71,13 +71,13 @@ def good_bad_split(x, y, good_label=0, bad_label=1, good_size=0.6, bad_size=0.6)
 
 if __name__ == '__main__':
     # data = pd.read_csv('C:\\Users\\Public\\xb.csv')
-    # data = pd.read_csv('C:/Users/luna/Desktop/bsd/shandietest.csv')
+    data = pd.read_csv('C:/Users/luna/Desktop/bsd/shandietest.csv')
     # data = pd.read_excel('C:/Users/luna/Desktop/test.xlsx')
-    data = pd.read_excel('C:/Users/luna/Desktop/bsd/test_report/信用现状测试结果.xlsx')
+    # data = pd.read_excel('C:/Users/luna/Desktop/bsd/test_report/信用现状测试结果.xlsx')
 
 
 
-    data = data.drop(['身份证'], axis=1)
+    data = data.drop(['Creditability'], axis=1)
 
     # data = data.fillna(9999)
     # data['day'] = data.days.apply(lambda x: 1 if x > 3 else 0)

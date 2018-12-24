@@ -21,7 +21,7 @@ plt.legend()
 plt.show()
 
 
-tf.reset_default_graph()
+tf.reset_default_graph()   # 将图(一个计算任务)里面的变量清空
 
 # 创建模型
 # 占位符
@@ -100,7 +100,7 @@ with tf.Session() as sess:
 #     sess2.run(tf.global_variables_initializer())
 #     saver.restore(sess2, savedir+'linemodel.cpkt-'+str(load_epoch))
 #     print('x=0.2, z=', sess2.run(z, feed_dict={X:0.2}))
-#
+
 
 
 

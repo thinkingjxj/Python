@@ -73,7 +73,9 @@ def good_bad_split(x, y, good_label=0, bad_label=1, good_size=0.6, bad_size=0.6)
 
 
 if __name__ == '__main__':
-    data = pd.read_csv('C:\\Users\\Public\\ceshi\\xinyanbingjianzonghe.csv',encoding = 'ANSI')
+    # data = pd.read_csv('C:\\Users\\Public\\ceshi\\xinyanbingjianzonghe.csv',encoding = 'ANSI')
+    data = pd.read_csv('C:/Users/luna/Desktop/bsd/shandietest.csv', encoding = 'ANSI')
+
     # data = data.fillna(9999)
     # data['day'] = data.days.apply(lambda x: 1 if x > 3 else 0)
     x_feature = [i for i in data.columns if i not in['Creditability']] # 移除无关数据
